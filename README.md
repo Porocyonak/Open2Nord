@@ -29,3 +29,6 @@ might have to modify a couple lines in setup.py so they point to your python dir
 If you are getting config errors, replace the config_files folder with the .ovpn files from https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip
 
 And you're done! Let me know if there are any problems.
+
+## Demonstration:
+![Alt Text](https://media.giphy.com/media/dCBADty7KlX6e9LQwL/giphy.gif)

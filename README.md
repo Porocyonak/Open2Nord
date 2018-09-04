@@ -1,7 +1,7 @@
 # OpenVPN-To-NordVPN
 I made this to bypass the Unity block when trying to run Unity with NordVPN. 
 
-***OpenVPN-To-NordVPN*** does some light Python scripting to automate server finding and automatic connections using the OpenVPN GUI.
+***OpenVPN-To-NordVPN*** does some light Python scripting to find the best NordVPN server for your location, and connects you to it automatically on logon using the OpenVPN GUI.
 
 I also made sure that the code was short and sweet, so you can easily tell if anything fishy is going on
 

@@ -31,4 +31,4 @@ If you are getting config errors, replace the config_files folder with the .ovpn
 And you're done! Let me know if there are any problems.
 
 ## Demonstration:
-![Alt Text](https://media.giphy.com/media/dCBADty7KlX6e9LQwL/giphy.gif)
+![Alt Text](https://media.giphy.com/media/8cB8c7ZYF5mrO5hR7Z/giphy.gif)

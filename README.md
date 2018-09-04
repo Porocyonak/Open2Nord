@@ -19,6 +19,8 @@ I also made sure that the code was short and sweet, so you can easily tell if an
 5. `Run RunOnStartup (Run Me!).bat (will run the .exe every computer boot)`
 6. `Run OpenVPNToNord.exe (to connect right away)`
 
+Done!
+
 ### -------------------------------------------------
 
 ### ------------------Build It Yourself--------------

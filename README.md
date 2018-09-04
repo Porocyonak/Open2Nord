@@ -21,8 +21,6 @@ I also made sure that the code was short and sweet, so you can easily tell if an
 
 Done!
 
-### -------------------------------------------------
-
 ### ------------------Build It Yourself--------------
 todo. basically just pip install requests and cx_freeze, and do "python setup.py build" in terminal in the directory with setup.py
 might have to modify a couple lines in setup.py so they point to your python directory

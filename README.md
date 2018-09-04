@@ -12,7 +12,7 @@ I also made sure that the code was short and sweet, so you can easily tell if an
       b. https://nordvpn.com/tutorials/windows-7/openvpn/
   
 2. `Modify the data.txt folder accordingly`
-3. `Optionally modify the login_info.txt with your NordVPN username and password`
+3. `*Optionally* modify the login_info.txt with your NordVPN username and password`
 4. `Run RunOnStartup (Run Me!).bat (will run the .exe every computer boot)`
 5. `Run OpenVPNToNord.exe (to connect right away)`
 

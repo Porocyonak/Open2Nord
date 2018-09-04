@@ -19,4 +19,7 @@ I also made sure that the code was short and sweet, so you can easily tell if an
 5. `Run OpenVPNToNord.exe (to connect right away)`
 
 ### -------------------------------------------------
+
+If you are getting config errors, replace the config_files folder with the .ovpn files from https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip
+
 And you're done! Let me know if there are any problems.

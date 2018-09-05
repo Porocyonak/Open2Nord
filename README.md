@@ -15,7 +15,7 @@ I also made sure that the code was short and sweet, so you can easily tell if an
   
 2. `Download the release version or build your own OpenVPN-To-NordVPN`
 3. `Modify the data.txt folder accordingly`
-4. `*Optionally* modify the login_info.txt with your NordVPN username and password`
+4. `*Optionally* modify the login_info.txt with your NordVPN email and password`
 5. `Run RunOnStartup (Run Me!).bat (will run the .exe every computer boot)`
 6. `Run OpenVPNToNord.exe (to connect right away)`
 

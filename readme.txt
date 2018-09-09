@@ -1,0 +1,1 @@
+more info at https://github.com/Porocyonak/Open2Nord/blob/master/README.md

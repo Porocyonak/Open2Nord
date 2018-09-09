@@ -26,6 +26,7 @@ TODO cleanup, make more newbie friendly.
 1. pip install requests and cx_freeze
 2. modify a couple lines in setup.py so they point to your python directory
 3. run "python setup.py build" in terminal at the project directory (that has setup.py)
+4. move all the files in `move_to_build_directory` to the newly made build directory (same path as Open2Nord.exe)
 
 ### -------------------How It Works------------------
 * **`RunOnStartup (Run Me!).bat`** creates a windows Task Scheduler to run **Open2Nord** on every boot. It calls `XML_Stuff.bat` which does some batch modifications of `task_info.xml` so it's customized to your system, and then creates a new Task with this new XML named `newtext.xml`.

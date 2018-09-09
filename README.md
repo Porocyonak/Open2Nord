@@ -3,7 +3,7 @@ I made this to bypass the Unity block when trying to run Unity with NordVPN.
 
 ***Open2Nord*** does some light Python scripting to find the best NordVPN server for your location, and connects you to it automatically on logon using the OpenVPN GUI.
 
-I also made sure that the code (and project itself) was short and sweet, so you can easily tell if anything fishy is going on. I'd like to say its also easier for newbies to learn so they can do it themselves, but I can't say for certain! Let me know what I can clear up to be more understandable.
+I also made sure that the code (and project itself) was short and sweet, so you can easily tell if anything fishy is going on. I'd like to say its also easier for newbies to learn so they can do it themselves, but I can't say for certain! Let me know what to clear up so it's more understandable.
 
 
 ### ------------------Instructions------------------
@@ -13,11 +13,13 @@ I also made sure that the code (and project itself) was short and sweet, so you 
   
       b. https://nordvpn.com/tutorials/windows-7/openvpn/
   
-2. `Download the release version or build your own Open2Nord`
+2. `Download and extract the release.zip version or build your own Open2Nord`
 3. `Modify the data.txt folder accordingly`
 4. **`[Optionally]`**`Modify the login_info.txt with your NordVPN email and password`
 5. `Run RunOnStartup (Run Me!).bat (will run the Open2Nord every computer boot)`
 6. **`[Optionally]`**`Run Open2Nord.exe to connect right away`
+
+**NOTE: Make sure to run `RunOnStartup (Run Me!).bat` again if you change the project directory!**
 
 Done!
 

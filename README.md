@@ -13,6 +13,8 @@ I also made sure that the code (and project itself) was short and sweet, so you 
   
       b. https://nordvpn.com/tutorials/windows-7/openvpn/
   
+      c. https://nordvpn.com/tutorials/windows-10/openvpn/
+      
 2. `Download and extract the compiled Open2Nord.zip version` [here](https://github.com/Porocyonak/Open2Nord/releases) `or build your own Open2Nord`
 
       2a. make sure you extract it to a good place, like `C:\Programs\Open2Nord` 

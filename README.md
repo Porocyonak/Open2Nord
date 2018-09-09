@@ -14,6 +14,7 @@ I also made sure that the code (and project itself) was short and sweet, so you 
       b. https://nordvpn.com/tutorials/windows-7/openvpn/
   
 2. `Download and extract the compiled Open2Nord.zip version` [here](https://github.com/Porocyonak/Open2Nord/releases) `or build your own Open2Nord`
+2a. make sure you extract it to a good place, like /Programs/ **DO NOT HAVE SPACES IN THE DIRECTORY!**
 3. `Modify the data.txt folder accordingly`
 4. **`[Optionally]`**`Modify the login_info.txt with your NordVPN email and password`
 5. `Run RunOnStartup (Run Me!).bat (will run the Open2Nord every computer boot)`

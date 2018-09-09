@@ -213,6 +213,7 @@ if is_admin():
         print("Critical Error! Shutting down program.")
         print("Problem description:")
         print(e)
+        input()
 else:
     # Re-run the program with admin rights
     # ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1) # Causes problems when compiled into an EXE

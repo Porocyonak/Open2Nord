@@ -31,6 +31,7 @@ TODO cleanup, make more newbie friendly.
       4a. make sure you extract config_files.zip so a config_files folder appears in the same directory!
       
 Final product should be something like this: ![final](https://i.imgur.com/sBimI6u.jpg)
+
 Config folder should look like: ![config](https://i.imgur.com/UZKaa5p.png)
 
 ### -------------------How It Works------------------

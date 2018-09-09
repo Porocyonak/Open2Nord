@@ -29,6 +29,8 @@ TODO cleanup, make more newbie friendly.
 4. move all the files in `move_to_build_directory` to the newly made build directory (same path as Open2Nord.exe)
       
       4a. make sure you extract config_files.zip so a config_files folder appears in the same directory!
+      
+Final product should be something like this: ![final](https://i.imgur.com/sBimI6u.jpg)
 
 ### -------------------How It Works------------------
 * **`RunOnStartup (Run Me!).bat`** creates a windows Task Scheduler to run **Open2Nord** on every boot. It calls `XML_Stuff.bat` which does some batch modifications of `task_info.xml` so it's customized to your system, and then creates a new Task with this new XML named `newtext.xml`.
@@ -51,4 +53,4 @@ If you are getting config errors, replace the files inside the config_files fold
 And you're done! Let me know if there are any problems.
 
 ## Demonstration:
-![Alt Text](https://i.imgur.com/YafoZ3a.gif)
+![demo](https://i.imgur.com/YafoZ3a.gif)

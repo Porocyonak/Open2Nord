@@ -18,7 +18,7 @@ I also made sure that the code (and project itself) was short and sweet, so you 
       2a. make sure you extract it to a good place, like `C:\Programs\Open2Nord` 
       ## **DO NOT HAVE SPACES OR PARENTHESIS IN THE DIRECTORY!**
 
-3. `Modify the data.txt folder accordingly. I recommend` https://gps-coordinates.org/ `for grabbing location data`
+3. `Modify the data.txt folder accordingly. I recommend` https://gps-coordinates.org/ `for grabbing latitude and longitude`
 4. **`[Optionally]`**`Modify the login_info.txt with your NordVPN email and password`
 5. `Run RunOnStartup (Run Me!).bat (will run the Open2Nord every computer boot)`
 6. **`[Optionally]`**`Run Open2Nord.exe to connect right away`

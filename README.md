@@ -1,7 +1,7 @@
 # Open2Nord
 I made this to bypass the Unity block when trying to run Unity with NordVPN connected. 
 
-***Open2Nord*** does some light Python scripting to find the best NordVPN server for your location, and connects you to it automatically on logon using the OpenVPN GUI.
+***Open2Nord*** does some light Python scripting to find the best NordVPN server for your location, and connects you to it automatically on logon through the OpenVPN GUI.
 
 I also made sure that the code (and project itself) was short and sweet, so you can easily tell if anything fishy is going on. I'd like to say it's also easier for newbies to learn so they can do it themselves, but I can't say for certain! Let me know what to clear up so it's more understandable.
 

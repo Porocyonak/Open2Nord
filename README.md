@@ -32,7 +32,7 @@ TODO cleanup, make more newbie friendly.
 4. run "python setup.py build" in terminal at the project directory (that has setup.py)
 5. move all the files in `move_to_build_directory` to the newly made build directory (same path as Open2Nord.exe)
       
-      4a. make sure you extract config_files.zip so a config_files folder appears in the same directory!
+      5a. make sure you extract the config_files.zip so that the config_files folder appears in the same directory, and is full of .ovpn files
       
 Final product should be something like this: ![final](https://i.imgur.com/sBimI6u.jpg)
 

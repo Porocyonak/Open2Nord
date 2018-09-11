@@ -30,7 +30,7 @@ I also made sure that the code (and project itself) was short and sweet, so you 
 
 ### ------------------Build It Yourself--------------
 TODO cleanup, make more newbie friendly. 
-1. install newest version of python, 3.x
+1. install python 3.x, most versions should be compatible
 2. download source and extract source
 3. pip install requests and pip install cx_freeze (or look up how to install requests and cx_freeze)
 4. modify a couple lines in setup.py so they point to your python directory

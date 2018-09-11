@@ -71,4 +71,4 @@ Todo:
 * automatically grab latitude/longitude from current ip
 * automatically refresh config files if outdated
 * fix an issue when there are more than 50 config files in OpenVPN GUI config folder automatically (if you are experiencing this, just delete a bunch of them. OpenVPN GUI doesn't like more than 50 config files)
-* change task to have 'onlogon for specific user' instead of all users (unsure if this affects anything)
+* change task to have 'onlogon for specific user' instead of all users (unsure if this affects anything. if you have this issue let me know, i'll see if I can fix it)

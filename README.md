@@ -67,7 +67,10 @@ And you're done! Let me know if there are any problems.
 ![demo](https://i.imgur.com/YafoZ3a.gif)
 ![hi](https://i.imgur.com/OpULrTR.png)
 
-Todo:
+##### Extra Notes:
+* connect through 1.1.1.1 https://1.1.1.1/ to get Amazon and other sites working, if they aren't
+
+##### Todo:
 * automatically grab latitude/longitude from current ip
 * automatically refresh config files if outdated
 * fix an issue when there are more than 50 config files in OpenVPN GUI config folder automatically (if you are experiencing this, just delete a bunch of them. OpenVPN GUI doesn't like more than 50 config files)

@@ -18,7 +18,7 @@ I also made sure that the code (and project itself) was short and sweet, so you 
       
 2. `Download and extract the compiled Open2Nord.zip version` [here](https://github.com/Porocyonak/Open2Nord/releases) `or build your own Open2Nord`
 
-      2a. make sure you extract it to a good place, like `C:\Programs\Open2Nord` 
+      a. make sure you extract it to a good place, like `C:\Programs\Open2Nord` 
       ## **DO NOT HAVE SPACES OR PARENTHESIS IN THE DIRECTORY!**
 
 3. `Modify the data.txt folder accordingly. I recommend` https://gps-coordinates.org/ `for grabbing latitude and longitude (will eventually be automated)`
@@ -30,13 +30,14 @@ I also made sure that the code (and project itself) was short and sweet, so you 
 
 ### ------------------Build It Yourself--------------
 TODO cleanup, make more newbie friendly. 
-1. download source and extract source
-2. pip install requests and cx_freeze
-3. modify a couple lines in setup.py so they point to your python directory
-4. run "python setup.py build" in terminal at the project directory (that has setup.py)
-5. move all the files in `move_to_build_directory` to the newly made build directory (same path as Open2Nord.exe)
+1. install newest version of python, 3.x
+2. download source and extract source
+3. pip install requests and pip install cx_freeze (or look up how to install requests and cx_freeze)
+4. modify a couple lines in setup.py so they point to your python directory
+5. run "python setup.py build" in terminal at the project directory (that has setup.py)
+6. move all the files in `move_to_build_directory` to the newly made build directory (same path as Open2Nord.exe)
       
-      5a. make sure you extract the config_files.zip so that the config_files folder appears in the same directory, and is full of .ovpn files
+      a. make sure you extract the config_files.zip so that the config_files folder appears in the same directory, and is full of .ovpn files
       
 Final product should be something like this: ![final](https://i.imgur.com/sBimI6u.jpg)
 

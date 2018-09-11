@@ -23,8 +23,8 @@ I also made sure that the code (and project itself) was short and sweet, so you 
 
 3. `Modify the data.txt folder accordingly. I recommend` https://gps-coordinates.org/ `for grabbing latitude and longitude (will eventually be automated)`
 4. **`[Optionally]`**`Modify the login_info.txt with your NordVPN email and password`
-5. `Run RunOnStartup (Run Me!).bat (will run the Open2Nord every computer boot)`
-6. **`[Optionally]`**`Run Open2Nord.exe to connect right away`
+5. `Run RunOnStartup (Run Me!).bat (will run Open2Nord every computer boot)`
+6. **`[Optionally]`**`Run Open2Nord.exe (as admin) to connect right away`
 
 **NOTE: Make sure to run `RunOnStartup (Run Me!).bat` again if you change the project directory!**
 

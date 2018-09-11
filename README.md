@@ -1,6 +1,6 @@
 # Open2Nord
-I made this to bypass the Unity block when trying to run Unity with NordVPN connected. Connecting to NordVPN servers through OpenVPN GUI fixes this 'unity block' issue, but there are two major problems: OpenVPN GUI can't be configured to run and connect on startup, and there isn't a way to find the 'best' server to connect to.
-Open2Nord fixes these two issues.
+I made this to bypass the Unity block when trying to run Unity with NordVPN connected. Connecting to NordVPN servers through OpenVPN GUI fixes this 'unity block' issue, **but there are two major problems:** OpenVPN GUI can't be configured to run and connect on startup, and there isn't a way to find the 'best' server to connect to.
+**Open2Nord fixes these two issues!**
 
 ***Open2Nord*** does some light Python scripting to find the best NordVPN server for your location, and connects you to it automatically on logon through the OpenVPN GUI.
 

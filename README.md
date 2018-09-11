@@ -68,7 +68,7 @@ And you're done! Let me know if there are any problems.
 ![hi](https://i.imgur.com/OpULrTR.png)
 
 #### Extra Notes:
-* connect through 1.1.1.1 https://1.1.1.1/ to get Amazon and other sites working, if they aren't
+* connect through 1.1.1.1 (see https://1.1.1.1/ ) to get Amazon and other sites working, if they aren't
 
 #### Todo:
 * automatically grab latitude/longitude from current ip

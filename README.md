@@ -24,7 +24,7 @@ I also made sure that the code (and project itself) was short and sweet, so you 
 3. `Modify the data.txt folder accordingly. I recommend` https://gps-coordinates.org/ `for grabbing latitude and longitude (will eventually be automated)`
       
       a. also make sure your OpenVPN directory ends at OpenVPN e.g: C:\Program Files\OpenVPN
-      ![demo](https://i.imgur.com/dGueqlO.png)
+      ![demo](https://i.imgur.com/mi04WHC.png)
       so 'OpenVPN directory' should point to this area of the OpenVPN install
 4. **`[Optionally]`**`Modify the login_info.txt with your NordVPN email and password`
 5. `Run RunOnStartup (Run Me!).bat (will run Open2Nord every computer boot)`

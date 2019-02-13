@@ -1,0 +1,22 @@
+OpenVPN Directory:
+C:\Program Files\OpenVPN
+----------------------------------
+Latitude and Longitude:
+42.391155
+-72.526711
+----------------------------------
+Have your login data automatically supplied? Yes or No (Yes recommended). Make sure to modify login_info.txt
+Yes
+----------------------------------
+Maximum current load for servers? (default 30, no lower than 6)
+30
+----------------------------------
+Timeout for each ping (in ms, default 150)
+150
+----------------------------------
+Abbreviation for location (for server location, eg. US, UK, etc)
+US
+----------------------------------
+Time to wait after program completion (in seconds)
+0
+----------------------------------

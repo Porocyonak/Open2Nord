@@ -26,7 +26,7 @@ I also made sure that the code (and project itself) was short and sweet, so you 
       a. also make sure your OpenVPN directory ends at OpenVPN e.g: C:\Program Files\OpenVPN
       [as shown](https://i.imgur.com/mi04WHC.png)
       so 'OpenVPN directory' should point to this area of the OpenVPN install
-4. **`[Optionally]`**`Modify the login_info.txt with your NordVPN email and password`
+4. **`[Optionally]`**`Modify the login_info.txt with your NordVPN email and password. Keep in mind this is stored in plaintext.`
 5. `Run RunOnStartup (Run Me!).bat (will run Open2Nord every computer boot)`
 6. **`[Optionally]`**`Run Open2Nord.exe (as admin) to connect right away`
 

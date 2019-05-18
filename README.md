@@ -6,6 +6,8 @@ I made this to bypass a Unity3D block when trying to run Unity3D with NordVPN co
 
 I also made sure that the code (and project itself) was short and sweet, so you can easily tell if anything fishy is going on. I'd like to say it's also easier for newbies to learn so they can do it themselves, but I can't say for certain! Let me know what to clear up so it's more understandable.
 
+(Currently only supports Windows 10, maybe Windows 7)
+
 
 ### ------------------Instructions------------------
 1. `Install OpenVPN from` 

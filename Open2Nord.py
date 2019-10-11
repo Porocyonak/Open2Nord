@@ -23,8 +23,8 @@ def wait_for_internet_connection():
     while True:
         try:
             print("Attempting connection to NordVPN api...")
+            time.sleep(.3) # fix 10-11-19 for polling spam bug. not reflected in github release (yet?)
             nordServers = requests.get('https://api.nordvpn.com/server')
-            time.sleep(.3)
             print("Success!")
             return nordServers
         except requests.exceptions.ConnectionError:
